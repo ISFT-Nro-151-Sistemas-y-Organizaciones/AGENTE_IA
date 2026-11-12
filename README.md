@@ -40,9 +40,9 @@ Para mantener la trazabilidad exigida por la cátedra y a la vez conservar una a
 | **Clase 12** | *Del sistema al agente de IA: Contexto, frontera, sinergia, recursividad y apertura* | ✅ Completado | [📄 Ver Entrega Clase 12](./docs/clase_12.md) | • [📐 Flujos y Caja Negra](./diagramas/clase_12_flujos_caja_negra.svg) |
 | **Clase 13** | *El agente de IA como sistema: Estructura, control, contexto y casos de uso UML* | ✅ Completado | [📄 Ver Entrega Clase 13](./docs/clase_13.md) | • [📐 Ciclo de Control](./diagramas/clase_13_ciclo_control.svg)<br>• [📐 Diagrama de Contexto](./diagramas/clase_13_diagrama_contexto.svg)<br>• [📐 Casos de Uso UML](./diagramas/clase_13_casos_de_uso.svg) |
 | **Taller 12-13** | *Del modelo al prototipo: Gemini Gems y pruebas de orientación académica* | ⏳ Pendiente | *Próximamente* | — |
-| **Clase 25/09** | *Del agente de IA a sus diagramas: Contexto y Casos de Uso en profundidad* | ⏳ Pendiente | *Próximamente* | — |
-| **Clase 02/10** | *Secuencia, reglas y control: Recorridos, reglas de negocio y casos de prueba* | ⏳ Pendiente | *Próximamente* | — |
-| **Clase 09/10** | *Integración y preparación del trabajo final: Auditoría de coherencia y mejora* | ⏳ Pendiente | *Próximamente* | — |
+| **Clase 14** | *Del agente de IA a sus diagramas: Contexto y Casos de Uso en profundidad* | ⏳ Pendiente | *Próximamente* | — |
+| **Clase 15** | *Secuencia, reglas y control: Recorridos, reglas de negocio y casos de prueba* | ⏳ Pendiente | *Próximamente* | — |
+| **Clase 16** | *Integración y preparación del trabajo final: Auditoría de coherencia y mejora* | ⏳ Pendiente | *Próximamente* | — |
 
 
 ---
